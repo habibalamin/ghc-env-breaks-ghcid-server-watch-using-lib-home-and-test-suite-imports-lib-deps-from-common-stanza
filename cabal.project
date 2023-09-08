@@ -1,0 +1,2 @@
+packages: minimal-reproduction.cabal
+with-compiler: ghc-9.4.7
